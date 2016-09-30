@@ -38,3 +38,13 @@ captures/
 
 # Keystore files
 *.jks
+
+*~
+*.bak
+*.pyc
+*.pyc-2.4
+Thumbs.db
+*.iml
+.idea/
+gen/
+
